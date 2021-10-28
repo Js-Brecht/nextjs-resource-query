@@ -1,0 +1,1 @@
+console.log("This will be imported as a string");
